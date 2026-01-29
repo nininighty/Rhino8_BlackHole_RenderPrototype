@@ -1,0 +1,14 @@
+# Visual Studio 缓存与索引
+.vs/
+[Bb]in/
+[Ob]j/
+*.user
+*.suo
+*.db
+*.ipch
+
+# 编译输出
+*.exe
+*.dll
+*.rhp
+*.pdb
